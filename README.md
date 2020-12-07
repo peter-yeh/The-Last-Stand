@@ -16,4 +16,6 @@ You found yourself in a foreign place, having no recollection of past events. So
 1. With each passing wave, the player would have time to pick critical upgrades to increase their chance of survival while the enemies regroup to continue their assault.
 1. Upon dying, players will be brought to the game over screen, where they will be shown their score and their high score too. It will also provide the players to play again, they can play again to try to beat their high score. They can also quit out of the game application.
 
+Try it at: https://connect.unity.com/mg/other/the-last-stand-1
+
 For more information, refer to https://docs.google.com/document/d/1OoC1h7DnNPNHwUWQJOuZ3mCBRbBEPqkU7UUJ0bFWSHg/edit?usp=sharing
